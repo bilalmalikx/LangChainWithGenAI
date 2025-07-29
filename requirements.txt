@@ -10,3 +10,4 @@ fitz
 wikipedia
 langchain-text-splitters
 langchain_openai
+chromadb
