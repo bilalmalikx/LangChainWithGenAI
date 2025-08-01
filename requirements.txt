@@ -19,3 +19,6 @@ langchain_chroma
 beautifulsoup4
 streamlit
 langchain_ollama
+langchain_groq
+fastapi
+pip install langserve
