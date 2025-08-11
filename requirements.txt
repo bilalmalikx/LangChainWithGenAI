@@ -21,4 +21,3 @@ streamlit
 langchain_ollama
 langchain_groq
 fastapi
-pip install langserve
